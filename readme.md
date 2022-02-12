@@ -1,4 +1,4 @@
-# Krystian Peplinski
+# Krystian Peplinski, 5 semestr EiT SiST, 2 grupa laboratoryjna
 # Technika mikroprocesorowa - projekt
 
 ## Temat:
