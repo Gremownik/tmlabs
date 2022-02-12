@@ -19,7 +19,7 @@
 
 [https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18b20-cyfrowy-1-wire-tht-5904422366513.html](https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18b20-cyfrowy-1-wire-tht-5904422366513.html)
 
-## Schemat:
+## Schemat (wykonany w programie fritzing):
 
 ![schemat tmp](https://user-images.githubusercontent.com/93950820/153689029-58769ab3-31d8-41a1-bb30-d4678e8442fa.jpg)
 
