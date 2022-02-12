@@ -3,7 +3,7 @@
 
 ## Temat:
 
--Miernik temperatury działający w zakresie od -55°C do 125°C.
+- Miernik temperatury działający w zakresie od -55°C do 125°C.
 
 ## Lista elementów:
 
