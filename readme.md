@@ -19,12 +19,12 @@
 
 [https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18b20-cyfrowy-1-wire-tht-5904422366513.html](https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18b20-cyfrowy-1-wire-tht-5904422366513.html)
 
-##Schemat:
+## Schemat:
 
 ![schemat tmp](https://user-images.githubusercontent.com/93950820/153689029-58769ab3-31d8-41a1-bb30-d4678e8442fa.jpg)
 
 
-##Kod:
+## Kod:
 Napisany dla programu Arduino: https://www.arduino.cc/en/software
 ```
 #include <OneWire.h>
@@ -58,7 +58,7 @@ Napisany dla programu Arduino: https://www.arduino.cc/en/software
   delay(1000);
  }
  ```
- ##Efekt końcowy:
+ ## Efekt końcowy:
  Połączenie na płytkach:
  ![połączenie przewodów](https://user-images.githubusercontent.com/93950820/153688355-ed23ed3b-4cc3-44b5-a99c-144ae602b289.jpg)
  Wyświetlanie temperatury:
@@ -66,5 +66,5 @@ Napisany dla programu Arduino: https://www.arduino.cc/en/software
 Film pokazujący działanie czujnika (na czujniku położony jest palec, aby temperatura stale wzrastała):
 https://www.youtube.com/watch?v=2N7m-c9jxME
 
-Wnioski:
+## Wnioski:
 Czujnik temperatury można by umieścić na dłuższych przewodach, aby móc go wystawić na zewnątrz i w ten sposób sprawdzać temperaturę np. zimą przed wyjściem z domu.
